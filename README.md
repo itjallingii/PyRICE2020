@@ -10,5 +10,5 @@ The PyRICE has been connected to the SSP scenarios by aggregating country statis
 To use the uncertainty modules, additional packages need to be installed to connect to the EMA-workbench: 
 https://emaworkbench.readthedocs.io/en/latest/
 
-## Availabtility of data
+## Availability of data
 Due to the large file size of the generated results, these are not available in this repository. These data files can be provided on request. 
